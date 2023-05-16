@@ -1,3 +1,3 @@
-pprovider "aws" {
+provider "aws" {
   
 } 
